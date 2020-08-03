@@ -1,0 +1,1 @@
+#define M_NAME "memory"

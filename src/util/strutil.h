@@ -1,0 +1,1 @@
+int is_equals(char *s1, char *s2)
