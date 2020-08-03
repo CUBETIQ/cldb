@@ -6,7 +6,7 @@ Local database for store the data in memory / file.
 - [ ] Basic Datastore implementatiom from local memory
 - [ ] Basic Socket Data connection implementation
 - [ ] Custom data file loader into database
-- [ ] Data encrytion and cryto on data-guard
+- [ ] Data encryption and crypto on data-guard
 - [ ] more...
 
 ### Contributors
