@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
-#include "./../src/util/strutil.c"
+#include "./../src/util/strutil.h"
 
 int main() {
 
